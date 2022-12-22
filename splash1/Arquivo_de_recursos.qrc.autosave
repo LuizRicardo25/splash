@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/splash">
+        <file>15-ilhas.jpg</file>
+    </qresource>
+</RCC>
